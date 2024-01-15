@@ -1,5 +1,5 @@
-from penjumlahan import sumFunc
-from pengurangan import subFunc
+from Addition import sumFunc
+from Subtraction import subFunc
 
 def hi(message):
     print(message)
